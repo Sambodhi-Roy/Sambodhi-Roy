@@ -2,11 +2,17 @@
 
 <h4>
 - 👀 I’m a curious individual always seeking to expand my knowledge and skills in various domains of software development.<br>
+  
 - 🌱 I’m currently learning DSA to enhance my problem-solving skills and optimize code efficiency.<br>
+
 - ⚔️ Recently started Competitive Programming to enhance my problem-solving skills and algorithmic thinking.<br>
+
 - 💞️ I’m also a passionate UI/UX Designer.<br>
+
 - 📫 Feel free to reach out via email at <a href="mailto:sambodhiroy2005@gmail.com">sambodhiroy2005@gmail.com</a>.<br>
+
 - 😄 Pronouns: She/Her<br>
+
 </h4>
 <!-- - ⚡ Fun fact:> 
 
