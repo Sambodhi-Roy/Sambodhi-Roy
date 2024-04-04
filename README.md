@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Sambodhi, a freshman at IIITM, Gwalior studying B.Tech in Mathematics in Scientific Computing .</h1>
 
-<h4>
+
 - 👀 I’m a curious individual always seeking to expand my knowledge and skills in various domains of software development.<br>
   
 - 🌱 I’m currently learning DSA to enhance my problem-solving skills and optimize code efficiency.<br>
