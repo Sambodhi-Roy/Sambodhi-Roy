@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Sambodhi, a sophomore at IIITM, Gwalior studying B.Tech in Mathematics and Scientific Computing .</h1>
 
 # 💫 About Me:
-🔭 Currently building **MVPs for web products**  <br>👯 Open to collaborating on **exciting web dev projects**  <br>🤝 Seeking guidance on **open source contributions**  <br>🌱 Exploring **backend development** and **machine learning**  <br>💬 Feel free to ask me about **coding and projects**  <br>⚡ Fun fact: I started coding in middle school and never looked back!  <br>
+🔭 Currently building **MVPs for web products** and participating in **CP Contests** <br>👯 Open to collaborating on **exciting web dev projects**  <br>🤝 Seeking guidance on **open source contributions**  <br>🌱 Exploring **backend development** and **machine learning**  <br>💬 Feel free to ask me about **DSA, CP and web projects**  <br>⚡ Fun fact: I started coding in middle school and never looked back!  <br>
 
 
 ## 🌐 Socials:
